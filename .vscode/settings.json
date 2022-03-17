@@ -1,7 +1,7 @@
 {
-    "python.pythonPath": ".env/bin/python",
-    "editor.defaultFormatter": "ms-python.python",
-    "editor.formatOnSave": true,
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+  
+  "editor.defaultFormatter": "ms-python.python",
+  "editor.formatOnSave": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
 }
