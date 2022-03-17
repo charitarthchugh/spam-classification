@@ -129,4 +129,3 @@ dependencies:
   - zipp=3.4.1=pyhd3eb1b0_0
   - zlib=1.2.11=h516909a_1010
   - zstd=1.4.9=ha95c52a_0
-prefix: /home/ccd/miniconda3/envs/spam-classification
