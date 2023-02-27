@@ -8,12 +8,12 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "~3.9"
 ipykernel = "^6.9.1"
-torch = {url = "https://download.pytorch.org/whl/cu113/torch-1.11.0%2Bcu113-cp39-cp39-linux_x86_64.whl"}
 transformers = "^4.17.0"
 tqdm = "^4.63.0"
 scikit-learn = "^1.0.2"
 pandas = "^1.4.1"
 jupyter = "^1.0.0"
+torch = "^1.13.1"
 
 [tool.poetry.dev-dependencies]
 black = { extras = ["d", "jupyter"], version = "^22.1.0" }
